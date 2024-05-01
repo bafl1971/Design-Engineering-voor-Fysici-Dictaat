@@ -10,16 +10,7 @@ parts:
     chapters:
     - file: activiteiten/overview.md
     - file: activiteiten/colleges.md
-# START REMOVE-FROM-PUBLISH
-    sections:
-      - file: activiteiten/colleges1.md
-      - file: activiteiten/colleges2.md
-      - file: activiteiten/colleges3.md
     - file: activiteiten/ontwerpodprachten.md
-    sections:
-      - file: activiteiten/ontwerpopdracht1.md
-      - file: activiteiten/ontwerpopdracht2.md
-      - file: activiteiten/ontwerpopdracht3.md
-# END REMOVE-FROM-PUBLISH
+  - caption: Einde
     - file: references.md
     - file: credits.md
