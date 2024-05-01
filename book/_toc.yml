@@ -10,7 +10,7 @@ parts:
     chapters:
     - file: activiteiten/ activiteitenOverzicht.md
     - file: activiteiten/colleges.md
-    sections:
+      sections:
       - file: activiteiten/college1.md
     - file: activiteiten/ontwerpodprachten.md
   - caption: Einde
