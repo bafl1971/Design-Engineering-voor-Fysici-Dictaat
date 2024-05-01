@@ -5,11 +5,13 @@ parts:
   - caption: Leerdoelen
     chapters:
     - file: leerdoelen/ontwerpen.md
-    - file: leerdoelenschattendRekenen.md
+    - file: leerdoelen/schattendRekenen.md
   - caption: Activiteiten
     chapters:
     - file: activiteiten/ activiteitenOverzicht.md
     - file: activiteiten/colleges.md
+    sections:
+      - file: activiteiten/college1.md
     - file: activiteiten/ontwerpodprachten.md
   - caption: Einde
     chapters:
