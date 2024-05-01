@@ -4,11 +4,11 @@ root: intro.md
 parts:
   - caption: Leerdoelen
     chapters:
-    - file: leerdoelen/overview.md
-    - file: leerdoelen/overview2.md
+    - file: leerdoelen/ontwerpen.md
+    - file: leerdoelenschattendRekenen.md
   - caption: Activiteiten
     chapters:
-    - file: activiteiten/overview.md
+    - file: activiteiten/ activiteitenOverzicht.md
     - file: activiteiten/colleges.md
     - file: activiteiten/ontwerpodprachten.md
   - caption: Einde
