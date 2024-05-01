@@ -6,9 +6,9 @@ parts:
     chapters:
     - file: some_content/overview.md
     - file: some_content/overview2.md
-# START REMOVE-FROM-PUBLISH
       sections:
       - file: some_content/text_and_code.ipynb
+# START REMOVE-FROM-PUBLISH
 # END REMOVE-FROM-PUBLISH
     - file: references.md
     - file: credits.md
