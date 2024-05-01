@@ -11,7 +11,7 @@ parts:
     - file: leerdoelen/lifeCycleAnalysis.md
   - caption: Activiteiten
     chapters:
-    - file: activiteiten/ activiteitenOverzicht.md
+    - file: activiteiten/activiteitenOverzicht.md
     - file: activiteiten/colleges.md
       sections:
       - file: activiteiten/college1.md
@@ -28,7 +28,7 @@ parts:
       - file: activiteiten/ontwerpopdracht5.md
       - file: activiteiten/ontwerpopdracht6.md
     - file: activiteiten/eindopdracht.md
-  - caption: Einde
+  - caption: Tot slot
     chapters:
     - file: references.md
     - file: credits.md
