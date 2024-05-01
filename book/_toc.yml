@@ -2,13 +2,24 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Leerdoelen
     chapters:
-    - file: some_content/overview.md
-    - file: some_content/overview2.md
+    - file: leerdoelen/overview.md
+    - file: leerdoelen/overview2.md
+  - caption: Activiteiten
+    chapters:
+    - file: activiteiten/overview.md
+    - file: activiteiten/colleges.md
+    sections:
+      - file: activiteiten/colleges1.md
+      - file: activiteiten/colleges2.md
+      - file: activiteiten/colleges3.md
+    - file: activiteiten/ontwerpodprachten.md
+    sections:
+      - file: activiteiten/ontwerpopdracht1.md
+      - file: activiteiten/ontwerpopdracht2.md
+      - file: activiteiten/ontwerpopdracht3.md
 # START REMOVE-FROM-PUBLISH
-      sections:
-      - file: some_content/text_and_code.ipynb
 # END REMOVE-FROM-PUBLISH
     - file: references.md
     - file: credits.md
