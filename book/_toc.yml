@@ -12,5 +12,6 @@ parts:
     - file: activiteiten/colleges.md
     - file: activiteiten/ontwerpodprachten.md
   - caption: Einde
+    chapters:
     - file: references.md
     - file: credits.md
