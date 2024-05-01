@@ -6,11 +6,6 @@ parts:
     chapters:
     - file: some_content/overview.md
     - file: some_content/overview2.md
-  - caption: Materiaal per activiteit 
-    chapters:
-    - file: some_content/overview.md
-    - file: some_content/overview2.md
-  
 # START REMOVE-FROM-PUBLISH
       sections:
       - file: some_content/text_and_code.ipynb
