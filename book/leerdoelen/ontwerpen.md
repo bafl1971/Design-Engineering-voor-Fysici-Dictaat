@@ -34,7 +34,20 @@ Belangrijke eigenschap van de analyse fase is dat je *in algemene termen* je pro
 
 ### Criteria
 
-Criteria zijn de vertaling van de analyse naar harde eisen waar het ontwerp aan moet voldoen om als succesvol (geslaagd) gezien te worden. 
+Criteria zijn de vertaling van de analyse naar harde eisen waar het ontwerp aan moet voldoen om als succesvol (geslaagd) gezien te worden. In een ontwerp-project met een opdrachtgever is het verstandig om na de analyse de criteria terug te leggen bij de opdrachtgever met de vraag: "dus als de ontworpen oplossing aan deze criteria voldoet, dan is het een succes? / kan ik een factuur sturen? / krijg ik de studiepunten?"
+
+Bij de criteria komen vaak voor het eerst in de ontwerpcyclus natuurkundige eenheden langs: het is handig om in natuurkundige termen uit te drukken wat het criteria is. Dus niet: "De brug moet sterk genoeg zijn voor een normale vrachtauto", maar: "de brug moet een rijdende colone van 15 vrachtwagens met een lengte van 12 meter per vrachtwagen en met een asdruk van maximaal 12 ton per vrachtwagen kunnen ondersteunen zonder problemen." 
+
+Bij het opstelling va criteria gebruiken we de **SMART** afkorting die oorspronkelijk uit project-management komt, maar hier ook goed inzetbaar is. Een criteria is smart wanneer het
+
+* **S**pecifiek
+* **M**eetbaar
+* **A**ctionable
+* **R**elevant
+* **T**ijdsgebonden
+
+is. 
+
 
 ### Synthese
 
