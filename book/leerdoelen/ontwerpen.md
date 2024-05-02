@@ -26,7 +26,7 @@ Bijvoorbeeld:
 
 * We gaan een oplossing ontwerpen waardoor mensen deze rivier kunnen oversteken terwijl scheepvaart niet gehindert wordt. 
 * We gaan een oplossing ontwerpen die beter is voor het klimaat dan de huidige kartonnen koffie-bekers
-* We gaan een aparaat meet-ontwerpen dat in staat is om een zwaartekracht golf te detecteren
+* We gaan een meet-apparaat ontwerpen dat in staat is om een zwaartekracht golf te detecteren
 
 Het is belangrijk om in de analyse fase niet al de volgende stappen van de ontwerp-cyclus in te vullen. bij het eerste voorbeeld hierboven kan de opdracht zijn: "ontwerp een brug over de Rijn". Echter: een brug is al een oplossing voor een probleem en bij analyse gaat het om het probleem scherp krijgen. Het goede antwoord naar de opdrachtgever bij dit voorbeeld zou dan ook zijn: "waarom een brug? Wat is het onderliggende probleem dat we moeten oplossen?" Door de juiste vragen te stellen krijg je het probleem helder, in dit geval: er moeten mensen naar de andere kant van de rivier.
 
