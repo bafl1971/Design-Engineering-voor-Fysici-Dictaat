@@ -5,7 +5,7 @@ Er zijn veel verschillende visies op wat ontwerpen "is". Een mogelijke manier om
 2. Ontwerpen als verkenning. De vraag die beantwoord wordt is: "wat kan er allemaal?". Dit is het soort ontwerpen dat geassocieerd wordt met 'visie'. Bij dit soort ontwerpen worden dingen (producten, toekomsten) ontworpen die nooit daadwerkelijk gemaakt (kunnen) gaan worden, maar daar gaat het niet om. Het gaat hier om een richting aangeven. Bijvoorbeeld: concept cars.
 3. Ontwerpen als oplossing. Ontwerpen als activitiet om efficient en gestructureerd een oplossing voor een gegeven probleem te kiezen en implementeren. Dit is het soort ontwerpen waarbij het probleem in grote lijnen bekend is en de kunst is om uit alle verschillende mogelijke oplossingen er één te kiezen die goed genoeg is. De kernwoorden zijn hier 'efficient' en 'gestructureerd'.
 
-Bij `Design Engineering voor Fysici` focussen we op de laatste categorie en voegen we daaraan toe: met gebruik van je natuurkunde kennis. Zo komen alle drie de woorden uit de titel van het vak samen: we leren je ontwerpen (design) en maken (engineering) gebruik makend van je natuurkunde kennis (fysica). 
+Bij Design Engineering voor Fysici focussen we op de laatste categorie en voegen we daaraan toe: met gebruik van je natuurkunde kennis. Zo komen alle drie de woorden uit de titel van het vak samen: we leren je ontwerpen (design) en maken (engineering) gebruik makend van je natuurkunde kennis (fysica). 
 
 ## De ontwerpcyclus
 Er zijn veel manieren om je werk als ontwerper (of, zie hierboven: oplossing-bedenker) gestructureerd in te richten. Als je gaat zoeken kom je vele ontwerp-methodes tegen zoals *Agile*, *design thinking*, *ontwerpcyclus* en vele andere. Deze termen zijn vaak erg vakgebied specifiek (vaak zonder te expliciet te noemen!). Zo is *agile* een methodiek die ontwikkeld is om teams van programmeurs zo snel mogelijk een bestaand stuk software beter te laten maken. Ontwerp-methodes zijn (vaak) tegenstrijdig: wat de één zegt is vaak strijdig met wat een ander zegt. Dat is geen probleem: verschillende ontwerp-methodes zijn ontwordpen voor verschillende toepassingen / deelgebieden en wat voor (bijvoorbeeld) software engineering van een klimaat-model geldt, geldt niet per se voor het ontwerpen en bouwen van een kern-reactor.
@@ -67,12 +67,33 @@ Of een idee daadwerkelijk aan de criteria voldoet wordt in de stappen simulatie 
 Er zijn vele methodes en hulpmiddelen bedacht om ontwerpers te helpen om in de synthese fase tot goede ideeen te komen. Voor een overzicht daarvan verwijzen we naar de Delft Design Guide, een leerboek dat bij de opleiding Industrieel Ontwerpen veelvuldig gebruikt wordt [citation needed]. Één van deze methodes: de morfologische kaart wordt uitgelegd in het tweedejaars vak Design Engineering voor Fysici 2 (DEF2, TN2003). Voor DEF1 (dit vak) is het voldoende om te weten dat je in de synthese fase ideeen bedenkt die mogelijk aan de ontwerpopdracht voldoen.  
 
 ### Simulatie
-tekst
+In de simulatie fase doe je activiteiten die het mogelijk maken om te testen of je idee uit de synthese fase voldoet aan de criteria. Die activiteiten kunnen heel verschillende zijn. Het woord *simulatie* kan verwarrend zijn omdat het buiten de context van ontwerpen vooral gebruikt wordt voor *digitale* similaties. Binnen de context van ontwerpen is simulatie echter breder: alles wat je doet om te later te kunnen toetsen of je idee aan de criteria voldoet. Een (niet uitputtende!) lijst van mogelijke activiteiten die goed onder Simulatie kunnen vallen:
+
+* Het analytisch doorreken van het idee. Dit kan een berekening op de achterkant van een envelop (of bierviltje) zijn, maar kan ook meerdere pagina's aan afleidingen en afschattingen zijn. Dit is een activiteit die binnen de opdrachten van DEF veel voorkomt als Simulatie stap.
+* Het opstellen en doorrekenen van een nummeriek model dat (een deel van) het idee simuleert. 
+* Het uitwerken van schetsen of digitale (3D) representaties van het idee, of het maken van een (schaal-)model, maquette (3D geprint of anders). Dit is onderdeel van simulatie omdat het gebruikt kan worden  om criteria te toetsen die gaan over hoe het ontwerp eruit moet zien. Dit kan zowel esthetisch zijn als technisch, bijvoorbeeld: 
+
+  * Uit een lijst van 10 ideeen moet dit idee door een steekproef van 10 klanten als *mooiste* worden betiteld. (esthetisch) 
+  * het ontwerp van een cubesat sateliet moet in een volume van 10 x 10 x 10 cm passen. (technisch)
+  * Het ontwerp voor de DEF eindopdracht moet door een deur heen kunnen (technisch)
+   
+*  Het volledig bouwen van het idee. In sommige ontwerpen is het direct maken van het volledige idee de enige manier om te testen. Dit is vaak het geval bij het ontwerpen van software.
+*  Logisch nadenken over het idee. Dit klinkt flauw, maar sommige ideeen kan je door logisch na te denken direct beoordelen (zie evaluatie hieronder). Als je gevraagd wordt een oplossing te verzinnen om 100 vrachtautos per uur over grote rivier te verplaatsen en een teamlid suggereert in de synthese fase een schans waarmee de autos naar de overkant springen dan kan je direct in Simulatie mentaal voorstellen wat er gebeurd met een auto een auto die aan de overkant neerkomt. In de volgende fase, evaluatie, ga je dan beoordelen of het "auto moet heel blijven" criteria gehaald wordt. Realiseer je dus dat de stappen synthese -> simulatie -> evaluatie vaak heel snel en onbewust gaan. Maar bij grote projecten worden deze stappen vaak expliciet gescheiden en zelfs door verschillende afdelingen binnen een bedrijf gedaan.
 
 ### Evaluatie
 
-tekst
+In de evaluatie fase leg je de uitkomst van de simulatie naast de criteria en beoordeel je of het idee voldoet aan de criteria. Bij kleine projecten kan dat heel snel en vaak onbewust gebeuren. Bijvoorbeeld bij het ontwerpen van een algoritme in software is het runnen van je code (synthese) en dan tegen een error aanlopen een evaulatie van de eis: "software moet werken". Bij grote projecten wordt de evaluatie systematischer gepland en worden hele evaluatie rapporten opgesteld in deze fase. Als beginnend ontwerper is het verstandig om je bewust te zijn van wanneer je een evaulatie doet en dit te documenteren: in notulen van een overleg, of in een ontwerp-journaal, zodat je later kan terugzien wanneer je welke ideeen wel of niet hebt goedgekeurd en om welke redenen.
+
+Het is belangrijk om bij evaluatie niet te droog te kijken naar alleen de criteria, maar ook terug te kijken naar de analyse en te beoordelen of de criteria wel goed genoeg gedefinieerd zijn. Vaak wordt pas bij evaluatie duidelijk dat een essentieel criteria vergeten is. (bijvoorbeeld de personen in de auto die over de rivier verplaatst wordt moet het overleven...) Het gebeurd (helaas) regelmatig dat een ontwerp opgeleverd wordt dat technisch gezien wel aan de criteria voldoet maar niet het probleem van de analyse oplost. 
 
 ### Iteratie
 
+Itereren is het proces van terugstappen naar een eerdere fase in de ontwerpcyclus omdat de uitkomst van evaluatie is dat een of meer criteria van het ontwerp nog niet in orde zijn. De ontwerpcyclus doorlopen tot en met evaluatie noemen we *één iteratie*. Het is zeer onwaarschijnlijk dat een ontwerpproces slechts één iteratie doorloopt. 
+
+Als uitkomst van evaluatie kan de beslissing zijn om terug te gaan naar synthese en daar meer ideeen uit te werken, of bestaande ideeen te veranderen. De uitkomst van evaluatie kan ook zijn om terug te gaan naar het opstellen van (extra, betere) criteria omdat duidelijk werd bij evaluatie dat de criteria niet (volledig) de probleem omschrijving uit Analyse dekken.
+
 ### Productie
+De laatste fase is het daadwerkelijk produceren van het ontwerp. Voor natuurkundige betekend dit vaak dat het ontwerp uit handen gegeven wordt en door vakmensen gefabriceerd wordt. Maar bijvoorbeeld in het geval van het ontwerpen van een meet-opstelling voor (afstudeer-)onderzoek zijn het vaak de natuurkundige die ook hier een belangrijke, of de enige, rol spelen. Als het hele ontwerp-proces goed is gegaan, komen er in het productie-proces geen verrassingen meer boven. In sommige gevallen zoals het maken van software is er geen sprake van een ontwerp-proces omdat de software al iteratief gemaakt is in de simulatie-fase.
+
+## Inrichten ontwerpcyclus
+
