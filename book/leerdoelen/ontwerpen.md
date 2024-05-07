@@ -12,6 +12,14 @@ Er zijn veel manieren om je werk als ontwerper (of, zie hierboven: oplossing-bed
 
 Bij DEF gebruiken we de ontwerpcyclus van [insert ref]. Zie de Delft Design Guide [insert ref], een boek met verschillende ontwerpmethodes dat in de opleiding Industrieel Ontwerpen veel gebruikt wordt, voor meer ontwerpmethodes. 
 
+```{figure} ../../figures/ontwerpcyclus.png
+---
+height: 300px
+name: ontwerpcycluse
+---
+De ontwerpcyclus van Roozenburg & Eekels
+```
+
 Hoewel deze methode *ontwerpcyclus* heet, is het belangrijk in te zien dat het meer een verzameling van activiteiten is. De volgorde waarin de activiteiten voorkomen volgen vaak, maar niet altijd, de cyclus. Als ontwerper is het zaak om voordat je aan de slag gaat met de inhoud van je ontwerp na te denken over hoe de randvoorwaarden van je ontwerpopracht impact hebben op de activiteiten in de ontwerpcyclus. Bijvoorbeeld: bij software ontwerp zijn de kosten van een iteratie doorlopen verwaarloosbaar en is het dus slimmer om niet te lang te blijven hangen in synthese en evaluatie, maar om bij het eerste het beste idee snel uit te werken of het werkt. Als het niet werkt doe je snel een iteratie en ga je terug naar synthese voor het volgende idee. Bij het ontwerpen van een raket naar Mars zijn de kosten van een iteratie te hoog en ga je dus bij synthese alle mogelijke opties af die je bij evaluatie uitwerkt, voordat je kiest welke je uiteindelijke oplossing wordt.
 
 Elke activiteit heeft een duidelijk gedefineerd doel binnen ontwerpen en eigenschappen die deze activiteit onderscheit van andere activiteiten. Er zijn altijd verschillende voorbeelden van werkzaamheden die kunnen vallen onder een activiteit. Hieronder behandellen we de verschillende activiteiten.
@@ -97,3 +105,13 @@ De laatste fase is het daadwerkelijk produceren van het ontwerp. Voor natuurkund
 
 ## Inrichten ontwerpcyclus
 
+De ontwerpcyclus kan gezien worden als een beschrijving van wat (ervaren) ontwerpers doen om tot een succesvol ontwerp te komen. Maar je kan de ontwerpcyclus ook zien als een stuk gereedschap om voordat je met een ontwerp begint na te denken over hoe je je ontwerp gaat aanpakken: hoeveel tijd en aandacht ga je aan de verschillende fases van de ontwerpcyclus besteden. Vooral voor beginnende ontwerpers biedt de ontwerpcyclus houvast om gestructureerd te werk te gaan en efficient tot een succesvol ontwerp te komen. Hoe je de ontwerpcyclus inricht kan je vastleggen in een ontwerp-journaal. Keuzes die je daarin vastlegt zijn (bijvoorbeeld)
+
+* Wie is verantwoordelijk voor het uitvoeren van welke fase van de ontwerpcyclus? En wie is verantwoordelijk voor het controleren of deze fast goed is verlopen en goed is gedocumenteerd? Voor kleine projecten kan dit altijd dezelfde persoon zijn, maar bij het ontwerpen van een nieuw vliegtuig kan dit door verschillende bedrijven gebeuren. 
+* Worden de criteria met de opdrachtgever afgestemd? Hoe wordt dit vastgelegd?
+* Hoeveel verschillende ideeen worden uitgewerkt voordat de stap naar simulatie gemaakt wordt? 
+* Hoeveel van de ideeen uit synthese worden in simulatie uitgewerkt? Hoe wordt de keuze gemaakt?
+* Wat voor (type) simulatie activiteiten worden gedaan? Worden onderdelen van de simulatie uitbesteed?
+* Wordt het aantal iteraties vooraf afgesproken of beperkt tot een maximum? Of mag oneindig vaak geittereerd worden tot de tijd op is? Als de kosten van de simulatie-fase hoog zijn, bijvoorbeeld doordat er duur productie materiaal gebruikt wordt, of er veel uren werk in gaat zitten, dan kan je beslissen om heel zuinig te zijn met iteraties. Dan moet je dus goed nadenken over hoe je na synthese het meest kansrijke idee verder uit gaat werken.
+
+Realiseer je goed dat je vaak (onbewust) een kleinere ontwerpcyclus doorloopt binnen een fase van de gehele ontwerpcyclus. Het inrichten van de ontwerpcyclus is een ontwerp op zich. Dit is een [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down) probleem. Een risico is dat er teveel tijd wordt besteed aan het inrichten van het ontwerp-proces en niet genoeg tijd aan het ontwerpen zelf. Beoordeel dus altijd goed of wat je inricht niet overkill is voor een gegeven opdracht. Voor beginnende ontwerpers is het advies om heel expliciet de ontwerpcyclus in te richten en te documenteren. Met ervaring kan beter besloten worden om bepaalde documentatie te minimaliseren.
