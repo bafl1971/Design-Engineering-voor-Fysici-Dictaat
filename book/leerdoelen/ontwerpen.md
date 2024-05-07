@@ -12,7 +12,7 @@ Er zijn veel manieren om je werk als ontwerper (of, zie hierboven: oplossing-bed
 
 Bij DEF gebruiken we de ontwerpcyclus van [insert ref]. Zie de Delft Design Guide [insert ref], een boek met verschillende ontwerpmethodes dat in de opleiding Industrieel Ontwerpen veel gebruikt wordt, voor meer ontwerpmethodes. 
 
-```{figure} ../../figures/ontwerpcyclus.png
+```{figure} ../figures/ontwerpcyclus.png
 ---
 height: 300px
 name: ontwerpcycluse
