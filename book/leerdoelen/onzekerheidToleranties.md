@@ -1,5 +1,9 @@
 # onzekerheids analyse en toleranties
 
+## Doel:
+Het bij hij het ontwerpen van een fysisch experiment nadenken over, en voldoen aan, de
+gewenste nauwkeurigheid van het experiment.
+
 ## Aanvullende literatuur
 * C.F.J. Pols, handleiding TN1405-P: Introductie tot experimenteren, hoofdstuk 1: Data analyse, Meten &
 Onzekerheid, TU Delft, 2022
