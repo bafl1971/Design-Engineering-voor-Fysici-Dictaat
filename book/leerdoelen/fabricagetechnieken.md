@@ -3,18 +3,18 @@ In het ontwerpproces zal het vaak voorkomen dat er, voor het testen van een ontw
 
 Er zijn erg veel verschillende fabricagetechnieken die te gebruiken zijn voor het bouwen van zowel prototypes als eindproducten. Daarbij gaan we hier in op 3 belangrijke, toegankelijke technieken
 
-###Solderen
+### Solderen
 Solderen is een techniek waarbij twee metalen onderdelen aan elkaar vast worden gemaakt, met behulp van de toevoeging van soldeertin. De twee metalen onderdelen worden verhit, waarna het tin wordt toegevoegd. Wanneer de warmtebron wordt verwijderd stolt het tin en is de verbinding vast. 
 Hoewel solderen ook wordt gebruikt om bijvoorbeeld leidingen mechanisch te verbinden gaat het hier vooral om de context van elektrisch contact. Soms is het nodig om twee onderdelen permanent aan elkaar te bevestigen, waarbij de twee onderdelen onderling elektrsich contact moeten maken. Hierbij is het belangrijk om op te merken dat de soldeerverbindingen niet structureel zijn van zichzelf, maar dat deze puur voor het contact zorgen. Zorg bij elektrische soldeerverbindingen dat, wanneer er krachten tussen de onderdelen kunnen ontstaan, er een secundaire mechanische verbinding zit tussen die onderdelen.
 
 TODO: goede figuren solderen toevoegen
 
-###Lasersnijden
+### Lasersnijden
 Lasersnijden is een techniek waarbij plaatmateriaal tot 6mm dik gegraveerd of gesneden kan worden met een snijdikte van 0.1mmm. Deze snijlijnen worden digitaal gegenereerd en verstuurd naar de machine en zijn daarmee met hoge precisie (0.1mm) op de plaat te zetten. De techniek is 2-dimensionaal, maar wordt door slim ontwerp vaak voor 3-dimensionale constructies gebruikt door de onderdelen als puzzelstukken uit te snijden ![figuur van doosje](../figures/laserdoos.jpg). 
 De lasersnijder werkt op verschillende soorten materiaal, waaronder: karton, MDF, multiplex en plexiglas. 
 
 Bestanden die voor lasersnijden worden gebruikt staan in een .SVG formaat. Hierbij kunnen lijnkleuren gebruikt worden om aan te geven of er gegraveerd of gesneden moet worden. [Bij TN is dat rood voor snijden, zwart voor graveren. Misschien in deze manual toevoegen, of is dat te TN specifiek?]. SVG bestanden kunnen gemaakt worden met gratis softarepakketten, zoals inkscape.
 
-###3D printen
+### 3D printen
 3D printen is een fabrigagetechniek waarbij gesmolden plastic geëxtrudeerd wordt in een voorgeprogrammeerde vorm. Dit is een vorm van een additieve 3-dimensionale bewerkingstechniek. 3D printers worden aangestuurd door 3D bestanden (bijvoorbeeld .stl) te converteren naar zogeheten 'G-code' met behulp van een slicer (meestal cura). De 3D bestanden kunnen gemaakt worden met gratis softwarepakketten, zoals freecad, openscad, tinkercad of solid edge. Daarbij hebben alle studenten van de TU Delft gratis toegang tot het Rhino 3D softwarepakket via [het softwareportaal van tudelft](https://software.tudelft.nl). 
 Het is bij 3D printen belangrijk om rekening te houden met het feit dat niet alle 3D modellen zomaar te realiseren zijn met een 3D printer. De machine werkt nameklijk vanaf het printbed in lagen naar boven toe. Dat betekent dat het lastig is om grote overhangende volumes te printen. Om dat probleem te verhelpen kunnen er in de slicer zogeheten supports toegevoegd worden om deze volumes te ondersteunen tijdens het printen. Hierdoor worden oppervlakken echter wel minder vlak en moet er veel nabewerking gedaan worden. ![figuur van 3D print](../figures/3D print.jpg)
