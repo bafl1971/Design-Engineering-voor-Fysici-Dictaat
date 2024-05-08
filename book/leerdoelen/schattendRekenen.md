@@ -1,3 +1,12 @@
 # Schattend Rekenen
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Aanvullende literatuur:
+• Sanjoy Mahajan, The Art of Insight in Science and Engineering, The MIT Press, Cambridge, 2014,
+ISBN: 978-0-262-52654-8
+• L. Weinstein & J.A. Adam, Guesstimation, Princeton University Press, Princeton, 2008,
+ISBN 978-0-691-12949-5
+
+## Doel:
+Het binnen een ontwerpproces en/of binnen een ontwerpdiscussie snel (=uit het hoofd, dus
+zonder rekenmachine en zonder internet) schatten van een grootheid $X$ binnen één orde
+grootte, d.w.z. $\frac{1}{3} X \lesssim X_{\text{schat}} \lesssim 3 X$.
