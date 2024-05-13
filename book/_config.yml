@@ -32,3 +32,22 @@ sphinx:
 
 bibtex_bibfiles: 
   - references.bib
+
+parse:
+  myst_enable_extensions:
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default!
+    - amsmath
+    - dollarmath
+    - attrs_inline
+    - colon_fence
+    - deflist
+    - fieldlist
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - strikethrough
+    - substitution
+    - tasklist
