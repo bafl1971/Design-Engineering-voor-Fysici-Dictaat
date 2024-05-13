@@ -51,8 +51,8 @@ $$
 
 Als Z het resultaat is van uitsluitend vermenigvuldigingen en delingen van machten van A, B en C, dus bijvoorbeeld $Z = A^\alpha B^\beta C^{-\gamma}$, dan vinden we met behulp van de calculus based approach:
 
-$$
-\begin{align}
+
+\begin{eqnarray}
 \left( \frac{u(Z)}{Z} \right) ^2 &=& \frac{\left[ \left( \frac{\partial Z}{\partial A}\right)^2 U(A)^2 + \left( \frac{\partial Z}{\partial B}\right)^2 U(B)^2 + \left( \frac{\partial Z}{\partial C}\right)^2 U(C)^2 \right]}{Z^2} 
 \\
 
@@ -66,8 +66,8 @@ $$
 
 &=& \left( \left( \alpha \frac{U(A)}{A} \right)^2 +  \left( \beta \frac{U(B)}{B} \right)^2 +  \left( \gamma \frac{U(C)}{C} \right)^2 
 \right) 
-\end{align}
-$$
+\end{eqnarray}
+
 
 ## Verschil onzekerheid bij practicum en ontwerpen
 Bij het natuurkundig practicum was de uitdaging om bij een gegeven opstelling te bepalen wat de (on)nauwkeurigheid in het gene was dat gemeten was. Ook wordt bij het practicum al een belangrijke stap naar het ontwerpen van experimenten gedaan door uit te rekenen hoe vaak een experiment herhaald moet worden om met gegeven apperatuur een gewenste nauwkeurigheid te halen.
