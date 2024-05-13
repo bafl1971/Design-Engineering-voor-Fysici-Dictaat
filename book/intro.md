@@ -10,6 +10,7 @@ Dit interactieve boek vormt samen met de studie-handleiding, het materiaal op Br
 Vooralsnog is deze interactieve sylabus werk in ontwikkeling en een aanvulling op het materiaal dat op Brightspace staat. Als eerste zijn de hoofdstukken 'leerdoelen' ingevuld. Daar is (onder andere) de theorie te vinden die in de theoretische toetsen van het vak getoetst wordt (zie de studiehandleiding op Brightspace). 
 
 
+Kleine wijziging als test
 
 ---
 
