@@ -39,15 +39,4 @@ parse:
     # including those that are enabled by default!
     - amsmath
     - dollarmath
-    - attrs_inline
-    - colon_fence
-    - deflist
-    - fieldlist
-    - html_admonition
-    - html_image
-    - linkify
-    - replacements
-    - smartquotes
-    - strikethrough
-    - substitution
-    - tasklist
+
