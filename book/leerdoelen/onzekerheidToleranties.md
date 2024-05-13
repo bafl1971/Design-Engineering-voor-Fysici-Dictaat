@@ -21,9 +21,7 @@ opgegeven) is $\pm$ 1 in de laatste decimaal.
 gecalibreerde meetinstrumenten, fouten in de meetmethode, niet in rekening gebrachte verstoringen
 etc.
 * Wanneer een correct experiment (juiste meetmethode, correcte meetapparatuur) N maal herhaald is,
-dan: Geven we de uitkomst van de meetserie aan als
-$$x=\mu \pm \frac{\sigma}{\sqrt{N}}$$
-met $\mu$ het gemiddelde van $N$ de metingen, en $\sigma$ de standaardafwijking van de $N$ metingen.
+dan: Geven we de uitkomst van de meetserie aan als $x=\mu \pm \frac{\sigma}{\sqrt{N}}$ met $\mu$ het gemiddelde van $N$ de metingen, en $\sigma$ de standaardafwijking van de $N$ metingen.
 * De standaardafwijking $\sigma$ is gedefinieerd als $\sigma = \left[ \frac{1}{N-1} \sum_{i=1}^{N} (x_i -\mu )^2  \right]^\frac{1}{2}$
 * Op de meeste wetenschappelijke rekenmachines en in bijvoorbeeld Excel zijn standaardfuncties
 beschikbaar om $\mu$ en $\sigma$ te berekenen.
@@ -34,7 +32,7 @@ beschikbaar om $\mu$ en $\sigma$ te berekenen.
 Stel een fysische grootheid Z hangt af van de fysische grootheden A , B en C: 
 
 $$
-Z=Z(A,B,C)
+Z=Z\left(A,B,C\right)
 $$
 
 A, B en C kunnen direct worden gemeten, met een onzekerheid $u(A)$ , $u(B)$ en $u\left(C\right)$, dan wordt de onzekerheid in $Z$ volgens de “calculus based approach” gegeven door
