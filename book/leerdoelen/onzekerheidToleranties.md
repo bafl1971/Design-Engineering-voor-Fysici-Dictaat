@@ -5,13 +5,9 @@ Het bij hij het ontwerpen van een fysisch experiment nadenken over, en voldoen a
 gewenste nauwkeurigheid van het experiment.
 
 ## Aanvullende literatuur
-* C.F.J. Pols, handleiding TN1405-P: Introductie tot experimenteren, hoofdstuk 1: Data analyse, Meten &
-Onzekerheid, TU Delft, 2022
-* {cite:p}`pols_NP`
-* I.G. Hughes and T.P.A. Hase, measurements and their uncertainties, Oxford University Press, 2010,
-ISBN-10: 019956633X, chapters 1 - 4
+De materie die hier behandeld wordt herhaald wat in {cite:t}`pols_NP` behandeld is. Voor verdere verdieping verwijzen we naar {cite:t}`Hughes_Hase`
 
-### Enkele belangrijke zaken die behandeld zijn in TN1405-P Introductie tot experimenteren
+## Enkele belangrijke zaken die behandeld zijn in TN1405-P Introductie tot experimenteren
 * Het resultaat van een fysische meting is pas zinvol als de meet-onzekerheid gekwantificeerd en
 gerapporteerd is.
 * De nauwkeurigheid van een (wetenschappelijk) meetinstrument wordt gespecificeerd door de
