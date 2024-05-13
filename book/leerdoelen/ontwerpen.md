@@ -10,17 +10,17 @@ Bij Design Engineering voor Fysici focussen we op de laatste categorie en voegen
 ## De ontwerpcyclus
 Er zijn veel manieren om je werk als ontwerper (of, zie hierboven: oplossing-bedenker) gestructureerd in te richten. Als je gaat zoeken kom je vele ontwerpmethodes tegen zoals *Agile*, *design thinking*, *ontwerpcyclus* en vele andere. Deze termen zijn vaak erg vakgebied specifiek (vaak zonder te expliciet te noemen!). Zo is *agile* een methodiek die ontwikkeld is om teams van programmeurs zo snel mogelijk een bestaand stuk software beter te laten maken. Ontwerpmethodes zijn (vaak) tegenstrijdig: wat de één zegt is vaak strijdig met wat een ander zegt. Dat is geen probleem: verschillende ontwerpmethodes zijn ontwordpen voor verschillende toepassingen / deelgebieden en wat voor (bijvoorbeeld) software engineering van een klimaatmodel geldt, geldt niet per se voor het ontwerpen en bouwen van een kernreactor.
 
-Bij DEF gebruiken we de ontwerpcyclus van [insert ref]. Zie de Delft Design Guide [insert ref], een boek met verschillende ontwerpmethodes dat in de opleiding Industrieel Ontwerpen veel gebruikt wordt, voor meer ontwerpmethodes. 
+Bij DEF gebruiken we de ontwerpcyclus van Roozenburg & Eekels [insert ref]. Zie de Delft Design Guide [insert ref], een boek met verschillende ontwerpmethodes dat in de opleiding Industrieel Ontwerpen veel gebruikt wordt, voor meer ontwerpmethodes. 
 
 ```{figure} ../figures/ontwerpcyclus.png
 ---
 height: 300px
 name: ontwerpcycluse
 ---
-De ontwerpcyclus van Roozenburg & Eekels
+De ontwerpcyclus van Roozenburg & Eekels die binnen DEF gebruikt wordt om de activiteiten die binnen de ontwerpcyclus plaats (kunnen) vinden te identificeren. 
 ```
 
-Hoewel deze methode *ontwerpcyclus* heet, is het belangrijk in te zien dat het meer een verzameling van activiteiten is. De volgorde waarin de activiteiten doorlopen worden volgen vaak, maar niet altijd, de cyclus. Als ontwerper is het zaak om voordat je aan de slag gaat met de inhoud van je ontwerp na te denken over hoe de randvoorwaarden van je ontwerpopracht impact hebben op de activiteiten in de ontwerpcyclus. Bijvoorbeeld: bij software ontwerp zijn de kosten van een iteratie doorlopen verwaarloosbaar en is het dus slimmer om niet te lang te blijven hangen in synthese en evaluatie, maar om bij het eerste het beste idee snel uit te werken of het werkt. Als het niet werkt doe je snel een iteratie en ga je terug naar synthese voor het volgende idee. Bij het ontwerpen van een raket naar Mars zijn de kosten van een iteratie te hoog en ga je dus bij synthese alle mogelijke opties af die je bij evaluatie uitwerkt, voordat je kiest welke je uiteindelijke oplossing wordt.
+Hoewel deze methode *ontwerpcyclus* heet, is het belangrijk in te zien dat het meer een verzameling van activiteiten is. De volgorde waarin de activiteiten doorlopen worden volgen vaak, maar niet altijd, de cyclus. Vaak worden deze activiteiten "ontwerpstappen" genoemd, maar dat doen we (hier) niet om duidelijk aan te geven dat het activiteiten zijn waar je tussen heen en weer kan springen, niet stappen van een stappenplan die je slaafs moet opvolgen. Als ontwerper is het zaak om voordat je aan de slag gaat met de inhoud van je ontwerp na te denken over hoe de randvoorwaarden van je ontwerpopracht impact hebben op de activiteiten in de ontwerpcyclus. Bijvoorbeeld: bij software ontwerp zijn de kosten van een iteratie doorlopen verwaarloosbaar en is het dus slimmer om niet te lang te blijven hangen in synthese en evaluatie, maar om bij het eerste het beste idee snel uit te werken of het werkt. Als het niet werkt doe je snel een iteratie en ga je terug naar synthese voor het volgende idee. Bij het ontwerpen van een raket naar Mars zijn de kosten van een iteratie te hoog en ga je dus bij synthese alle mogelijke opties af die je bij evaluatie uitwerkt, voordat je kiest welke je uiteindelijke oplossing wordt.
 
 Elke activiteit heeft een duidelijk gedefineerd doel binnen ontwerpen. Daarbij hebben ze concrete eigenschappen die de activiteiten onderling onderscheiden. Er zijn altijd verschillende voorbeelden van werkzaamheden die kunnen vallen onder een activiteit. Hieronder behandelen we de verschillende activiteiten.
 
@@ -33,14 +33,18 @@ Bijvoorbeeld:
 * We gaan een oplossing ontwerpen die beter is voor het klimaat dan de huidige kartonnen koffiebekers
 * We gaan een meetapparaat ontwerpen dat in staat is om een zwaartekracht golf te detecteren
 
-Het is belangrijk om in de analyse fase niet al de volgende stappen van de ontwerpcyclus in te vullen. bij het eerste voorbeeld hierboven kan de opdracht zijn: "ontwerp een brug over de Rijn". Echter: een brug is al een oplossing voor een probleem en bij analyse gaat het om het probleem scherp krijgen. Het goede antwoord naar de opdrachtgever bij dit voorbeeld zou dan ook zijn: "waarom een brug? Wat is het onderliggende probleem dat we moeten oplossen?" Door de juiste vragen te stellen krijg je het probleem helder, in dit geval: er moeten mensen naar de andere kant van de rivier.
+Het is belangrijk om in de analyse fase niet al de volgende stappen van de ontwerpcyclus in te vullen. Bij het eerste voorbeeld hierboven kan de opdracht zijn: "ontwerp een brug over de Rijn". Echter: een brug is al een oplossing voor een probleem en bij analyse gaat het om het probleem scherp krijgen. Het goede antwoord naar de opdrachtgever bij dit voorbeeld zou dan ook zijn: "waarom een brug? Wat is het onderliggende probleem dat we moeten oplossen?" Door de juiste vragen te stellen krijg je het probleem helder, in dit geval: er moeten mensen naar de andere kant van de rivier.
 
 Een belangrijke eigenschap van de analyse fase is dat je *in algemene termen* je probleem omschrijft. De specificering van je probleem in (natuurkundige) quantitatieve termen vindt plaats in de volgende stap: criteria.
 
 ### Criteria
 Criteria zijn de vertaling van de analyse naar harde eisen waar het ontwerp aan moet voldoen om als succesvol (geslaagd) gezien te worden. In een ontwerpproject met een opdrachtgever is het verstandig om na de analyse de criteria terug te leggen bij de opdrachtgever met de vraag: "dus als de ontworpen oplossing aan deze criteria voldoet, dan is het een succes? / kan ik een factuur sturen? / krijg ik de studiepunten?"
 
+Sommige ontwerpers zijn het opstellen van criteria als onderdeel van de Analyse activiteit, andere ontwerpers vinden dat het opstellen een activiteit op zich is. Wij zetten Criteria hier apart omdat ze binnen het vak DEF een belangrijke rol innemen. Voor het soort projecten waar natuurkundigen in hun carriere mee te maken krijgen is het erg belangrijk om goede scherpen criteria op de kunnen stellen.
+
 Bij de criteria komen vaak voor het eerst in de ontwerpcyclus natuurkundige eenheden langs: het is handig om in natuurkundige termen uit te drukken wat het criteria is. Dus niet: "De brug moet sterk genoeg zijn voor een normale vrachtauto", maar: "de brug moet een rijdende colone van 15 vrachtwagens met een lengte van 12 meter per vrachtwagen en met een asdruk van maximaal 12 ton per vrachtwagen kunnen ondersteunen zonder problemen." 
+
+Er is onderscheid te maken tussen pass-fail criteria en optimalisatie criteria. Een pass-fail criteria is een criteria dat wel, of niet, gehaald wordt, bijvoorbeeld: “de opstelling moet door de voordeur kunnen.” Bij een optimalisatie criteria wordt geen harde grens gegeven, maar wel gezegd wat de richting is, bijvoorbeeld: “de opstelling moet zo klein mogelijk zijn”. Dit wordt vaak gecombineerd: “De opstelling moet door de voordeur komen en zo klein mogelijk zijn”. Wanneer een bedrijf aan een aantal ontwerpers vraagt om met een voorstel voor een oplossing te komen, wordt vaak een lijst met pass-fail criteria gegeven waar de opstelling sowieso aan moet voldoen en minstens één optimalisatie criteria dat gebruikt kan worden om het beste ontwerp te kiezen. 
 
 Bij het opstelling van criteria gebruiken we de **SMART** afkorting die oorspronkelijk uit project-management komt, maar hier ook goed inzetbaar is. **SMART** staat voor: 
 
@@ -52,19 +56,19 @@ Bij het opstelling van criteria gebruiken we de **SMART** afkorting die oorspron
 
 Er zit enige overlap tussen de verschillende termen, maar het helpt als denkmiddel om te kijken of criteria goed geformuleerd zijn.
 
-#### Specifiek
+##### Specifiek
 Het criterium moet eenduidelig zijn. Als twee mensen die het criterium lezen een verschillend beeld kunnen hebben bij het criterium, dan is het niet specifiek. Vermijd daarom subjectieve termen als: goed genoeg, sterk genoeg of 'niet te groot' en vervang deze door specifieke getallen of grenzen. Geef bij getallen waar nodig ook een domein aan, bijvoorbeeld: De koorts-thermometer die we gaan ontwerpen moet in het bereik van 30 tot 45 graden de lichaamstemperatuur van een persoon met een nauwkeurigheid lager dan 0.1 graad Celcius vaststellen. 
 
-#### Meetbaar
+##### Meetbaar
 Het moet meetbaar zijn of een oplossing aan het criterium voldoet. Wanneer het niet objectief meetbaar is of een criterium gehaald is, is niet vast te stellen of daadwerkelijk aan het criterium voldaan is. Vaak overlapt dit criterium met Specifiek, maar het is ook mogelijk om een criterium wel specifiek op te stellen, maar dat het fysisch, technisch of financieel niet mogelijk is om te meten of aan het wel specifieik geformuleerde criterium is voldaan.
 
-#### Actionable
+##### Actionable
 De ontwerper / maker moet binnen de grenzen van de opdracht invloed hebben op het criterium. Als de ontwerper niets kan veranderen aan het wel of niet halen van het criterium met een ontworpen oplossing, dan is het een slecht criterium.
 
-#### Relevant
+##### Relevant
 Het criterium moet gaan over de in de analyse geformuleerde probleem en bijdragen aan de oplossing. Als de uitkomst van de analyse fase is: "er moet een oplossing gemaakt worden om mensen over de rivier te verplaatsen", dan is het criterium: "de oplossing moet blauw zijn" niet relevant.  
 
-#### Tijdsgebonden
+##### Tijdsgebonden
 Het criterium moet binnen een normale tijd te halen zijn en/of aantoonbaar zijn. Als de oplossing een bepaalde verandering moet teweegbrengen, dan moet aangegeven worden wanneer deze verandering bewerkstelligd is. Bijvoorbeeld: "de opstelling moet een drankje van maximaal 200 ml met een begin temperatuur van maximaal 40 graden af kunnen koelen naar 10 graden celcius *binnen 2 minuten*."
 
 ### Synthese
