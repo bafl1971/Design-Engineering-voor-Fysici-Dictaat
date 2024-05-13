@@ -7,6 +7,7 @@ gewenste nauwkeurigheid van het experiment.
 ## Aanvullende literatuur
 * C.F.J. Pols, handleiding TN1405-P: Introductie tot experimenteren, hoofdstuk 1: Data analyse, Meten &
 Onzekerheid, TU Delft, 2022
+* {cite:p}`pols_NP`
 * I.G. Hughes and T.P.A. Hase, measurements and their uncertainties, Oxford University Press, 2010,
 ISBN-10: 019956633X, chapters 1 - 4
 
