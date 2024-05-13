@@ -35,6 +35,8 @@ Schattend (hoofd)rekenen in machten van 10
 
 ## Enkele uitgangspunten bij schattend rekenen
 
+De volgende lijst aan uitgangspunten helpt je om een goede schatting te maken. Deze lijst staat binnen het vak Design Engineering voor Fysici bekend als 'methode Kleijn', naar prof. Chris Kleijn die het gastcollege schattend rekenen voor ingenieurs geeft. 
+
 ### Verdeel en heers
 Splits een schatting waarbij je je geen enkele voorstelling kunt maken van de te
 schatten grootheid op in deel-schattingen, die elk voor zich wél te schatten zijn).
