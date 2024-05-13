@@ -1,10 +1,6 @@
 # Schattend Rekenen
 
-## Aanvullende literatuur:
-• Sanjoy Mahajan, The Art of Insight in Science and Engineering, The MIT Press, Cambridge, 2014,
-ISBN: 978-0-262-52654-8
-• L. Weinstein & J.A. Adam, Guesstimation, Princeton University Press, Princeton, 2008,
-ISBN 978-0-691-12949-5
+Als ingenieur is het essentieel om snel qualitatieve inschattingen te kunnen maken. Dit staat bekend als *Fermi schatting* of *schattend rekenen*. Voor wie naast de korte introductie die we binnen Design Engineering voor Fysici aanbieden meer over dit onderwerp wil leren raden we {cite:t}`Mahajan2014` en {cite:t}`Weinstein2008` aan.
 
 ## Doel:
 Het binnen een ontwerpproces en/of binnen een ontwerpdiscussie snel (=uit het hoofd, dus
