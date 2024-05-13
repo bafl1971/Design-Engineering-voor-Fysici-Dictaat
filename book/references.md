@@ -1,4 +1,4 @@
-Een test voor een referentie: {cite:t}`<jason_moore>`
+Een test voor een referentie: {cite:t}`jason_moore`
 
 # References
 :::{bibliography}
