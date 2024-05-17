@@ -9,6 +9,12 @@ parts:
     - file: leerdoelen/fabricagetechnieken.md
     - file: leerdoelen/onzekerheidToleranties.md
     - file: leerdoelen/lifeCycleAnalysis.md
+  - caption: Activiteiten
+    chapters:
+    - file: activiteiten/ontwerpopdrachten.md
+      sections:
+      - file: activiteiten/ontwerpopdracht5.md
+      - file: activiteiten/ontwerpopdracht5notebook.ipynb
   - caption: Tot slot
     chapters:
     - file: references.md
